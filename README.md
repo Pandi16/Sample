@@ -12,7 +12,7 @@ Single star is used to write italic text
 **Ordered list**
 1. first item
 2. second item
-       -indented item
+       1. indented item
 
 **creating blockquote**
 
