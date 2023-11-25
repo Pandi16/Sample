@@ -1,5 +1,5 @@
 # Sample
-A sample repository for trying things\n
+A sample repository for trying things
 **Bold Text**
 Stars are used to write bold text
 *Italic Text*
@@ -8,7 +8,7 @@ Single star is used to write italic text
 - first item
 - second item
 - third item
-  indented item
+    indented item
 **Ordered list**
 1. first item
 2. second item
